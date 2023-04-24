@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  WordGarden
 //
-//  Created by 謝榮駿 on 2023/4/24.
-//
 
 import UIKit
 
